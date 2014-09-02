@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>functions.js</file>
+        <file>dialog.qml</file>
+        <file>tests/unit/tst_functions.qml</file>
+    </qresource>
+</RCC>

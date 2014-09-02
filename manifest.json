@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.username.comparaannunci",
+    "description": "description of ComparaAnnunci",
+    "framework": "ubuntu-sdk-14.10-qml-dev3",
+    "architecture": "all",
+    "title": "ComparaAnnunci",
+    "hooks": {
+        "ComparaAnnunci": {
+            "apparmor": "ComparaAnnunci.json",
+            "desktop": "ComparaAnnunci.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": ""
+}
